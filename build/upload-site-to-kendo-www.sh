@@ -22,7 +22,7 @@ fi
 for host in "${HOSTS[@]}"
 do
     log "Uploading site to $host"
-    $SYNC $1/$SITE/ $USER@$host:$DEST || exit 1
+    $SYNC $1/ $USER@$host:$DEST || exit 1
 done
 
 log "Done"
