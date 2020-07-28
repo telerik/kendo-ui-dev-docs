@@ -27,7 +27,6 @@ defaults:
         layout: "documentation"
         category: "default"
         product: "kendo-ui"
-        editable: false
 
 has_kb_portal: false
 has_api_reference: false
