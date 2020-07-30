@@ -8,7 +8,10 @@ if [[ "$3" != "" ]]; then
     SITE="$3"
 fi
 
-declare -a HOSTS=("ordkendowww01.telerik.local" "ordkendowww02.telerik.local")
+declare -a HOSTS=(
+    "ordkendowww01.telerik.local" "ordkendowww02.telerik.local"
+    "ordkendowwwn1.telerik.local" "ordkendowwwn2.telerik.local"
+)
 
 function log {
     echo "[$(date +%T)] $1"
