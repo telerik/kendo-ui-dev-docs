@@ -238,7 +238,7 @@ For any issues you might encounter while working with Kendo UI for jQuery, use a
 ## Learning Resources
 
 * [Kendo UI Dojo Interactive Learning Platform](http://dojo.telerik.com/)
-* [Kendo UI for jQuery Virtual Classroom](https://progress.exceedlms.com/student/path/366724-kendo-ui-jquery)
+* [Kendo UI for jQuery Virtual Classroom](https://learn.telerik.com/learn/course/external/view/elearning/23/kendo-ui-for-jquery)
 * [Kendo UI YouTube Channel](https://www.youtube.com/user/kendouiTV)
 * [Other Kendo UI Support and Learning Resources](http://www.telerik.com/support/kendo-ui)
 
